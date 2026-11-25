@@ -1,0 +1,1 @@
+public enum StatusPlano { ATIVO, INATIVO }
